@@ -163,6 +163,7 @@
 85. Драйвер Н-мостов - 1
 86. Драйвер B6612FNG - 1
 87. Драйвер MX1508 - 3
+46. blututh remote controller - 1
 88. Драйвер 8-и канальный - 2
 89. Water Flow Sensor - 1
 3. Water Sensor - 1
