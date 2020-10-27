@@ -10,4 +10,4 @@
 | 6 | Паяльная ванна | 15 | 1 | https://www.aliexpress.com/item/33008694662.html |
 | 7 | PCB-принтер | 350 | 1 | https://www.voltera.io/store/v-one |
 | 8 | Кресло офисное | 4 | 10 | https://www.dns-shop.ru/product/6137f29323f83330/kreslo-ofisnoe-recardo-smart-60-cernyj/ |
-| Итого | 910 | 
+| | Итого | 910 | 
